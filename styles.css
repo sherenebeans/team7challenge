@@ -6,6 +6,7 @@
 
 /* THIS SHOWS THE PRICING TABLE */
 body {
+    background-color: rgb(241, 222, 233);
     display: flex;
     justify-content: center;
     align-items: center;
